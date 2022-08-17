@@ -3,7 +3,7 @@ author: hamza
 layout: post
 ---
 Starting anything takes a bit of courage. Starting medical school just fresh out of high school, while still
-in your teens, needs a load of courage and a leap of faith. And for me, it was a blind leap of faith. 
+in your teens, takes a load of courage and a leap of faith. And for me, it was a blind leap of faith. 
 
 At that point in my life, I had not yet figured out what I wanted to do, unlike some of my friends. I didn’t have a
 clear idea of the career that would suit me best. Looking back, the societal expectation to make such a
