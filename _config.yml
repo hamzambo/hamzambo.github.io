@@ -19,6 +19,7 @@ defaults:
       layout: "default"
 remote_theme: pages-themes/hacker@v0.2.0
 title: Arabica
+description: Robusta
 plugins:
   - jekyll-feed
   - jekyll-sitemap
