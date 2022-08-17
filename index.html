@@ -1,0 +1,26 @@
+---
+title: Home
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <div>
+      <p>Hello There!</p> 
+    <p> Here are the articles I have written in the past. Enjoy.
+    </p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+  </body>
+</html>
