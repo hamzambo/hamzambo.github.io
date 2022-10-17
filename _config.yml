@@ -1,28 +1,7 @@
-collections:
-  authors:
-    output: true
-
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-remote_theme: pages-themes/hacker@v0.2.0
-title: Arabica
-description: Brewing ideas.
+title: Hamza Haji
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag 
-  - jekyll-remote-theme
+
 
