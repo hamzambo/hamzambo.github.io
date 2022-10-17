@@ -1,5 +1,6 @@
 ---
 author: hamza
+permalink: friendship
 layout: post
 ---
 I used to think that I am an introvert. Well, the pandemic proved me wrong. Maybe it was
