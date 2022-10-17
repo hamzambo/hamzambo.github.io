@@ -1,5 +1,6 @@
 ---
 author: hamza
+permalink: formalin
 layout: post
 ---
 Starting anything takes a bit of courage. Starting medical school just fresh out of high school, while still
