@@ -14,7 +14,7 @@ body{
 	background: #151515 url("../images/bkg.png") 0 0;
 	color:#000
 }
-h1,h2,h3,dt,small,.small,dl#tweetlist dt,footer,label,#commentlist ol li cite,div.blogparent,input[type="submit"],figcaption{
+h1,h2,h3,dt,small,.small {
 	font-family:valkyrie_c4, Georgia, serif;
 	font-weight:normal;
 	font-style:normal
@@ -22,11 +22,11 @@ h1,h2,h3,dt,small,.small,dl#tweetlist dt,footer,label,#commentlist ol li cite,di
 span.url {
 	font-family:Georgia,serif;
 }
-small,.small,footer,dl#tweetlist dt,figcaption{
+small,.small,footer {
 	font-size:0.8em;
 	color:#666
 }
-h1,h2,h3,label{
+h1,h2,h3 {
 	line-height:1em
 }
 h1{
@@ -78,11 +78,9 @@ pre{
 	line-height:1
 }
 
-img,iframe,audio{
+img {
 	max-width:100%;
 	display:block
-}
-img{
 	height:auto
 }
 
