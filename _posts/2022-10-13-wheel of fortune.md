@@ -1,3 +1,6 @@
+---
+permalink: fortune
+---
 A popular genre of books sold in Nairobi streets promises to teach you how to be successful. A few of the books are about things like happiness and fulfilment. But most of them are about getting rich. If you know Nairobi well, you'll not be surprised that these books are scams. If you don't, a quick look at the non-rich sellers of these books will do the trick- overconfident guides to treasures they do not possess. This article is no different. 
 
 I am a Nairobi man writing things on the internet. I am neither rich nor poor. But let this not give you the impression that I am somewhere in between. I am way closer to a Moi avenue hawker than to Dangote. So, take anything I say about wealth with a good serving of salt. With that out of the way, we can dive into the subject. 
@@ -12,9 +15,7 @@ Wealth is something that people want. Being wealthy simply means having or makin
 
 So, for you to become rich you have to create wealth, and then exchange it with money. The money now gives you the option to get anything you want. Being rich thus just means having lots of options. 
 
-That's the end of the discussion for the rest of the world. Kenyans stay behind. I'd like to have a word with you. 
-
-Whatever I said earlier is obviously not the most common way of getting rich in Kenya. Here, you create a problem and then charge for its solution. You destroy a working public institution, then peddle an equally inefficient and expensive alternative. Even when you get to build something, you intentionally do a poor job to get to do the repairs more frequently. 
+Whatever I have said above is obviously not the most common way of getting rich in Kenya. Here, you create a problem and then charge for its solution. You destroy a working public institution, then peddle an equally inefficient and expensive alternative. Even when you get to build something, you intentionally do a poor job to get to do the repairs more frequently. 
 
 People are often puzzled as to why the government doesn’t work. It doesn’t work because it is more profitable that way. If things worked smoothly a lot of rich men would lose huge sources of income. The whole political system is based on getting the power to create problems. It is why politicians are the richest. 
 
