@@ -31,5 +31,6 @@ well so far, though it has been tested to its limits
 by medical school. I highly
 recommend this vaccine to your future(or current) children.
 
+![Thika](/assets/images/vaccine.jpg)
 
 © 2021 <a class="small" href="/">HAMZA HAJI</a>
