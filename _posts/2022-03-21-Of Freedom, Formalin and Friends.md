@@ -16,9 +16,8 @@ respect(or fear, I couldn’t tell the difference) and walked around with guns, 
 found to be really cool. The next thing I had dreamt of becoming when I grew up was a bus driver
 because bus drivers travelled constantly for a living, and I loved(and still do love) travelling. Next, I had
 dreamt of becoming an accountant. This one was because a very charismatic accountant came to our
-school during careers day and I found his job to be particularly interesting. 
+school during careers day and I found his job to be particularly interesting. That was back in Form One. And it was the last time I had thought seriously about what career I would like to pursue.
 
-That was back in Form One. And it was the last time I had thought seriously about what career I would like to pursue.
 After getting my KCSE results, I was spoilt for choice about what undergraduate program I could apply
 for. So, naturally, I just applied for the course that had the highest cut-off points. That course was
 MBChB- Bachelor of Medicine and Bachelor of Surgery. That’s how I landed in Chiromo Campus in the
