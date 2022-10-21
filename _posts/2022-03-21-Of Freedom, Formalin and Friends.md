@@ -16,8 +16,9 @@ respect(or fear, I couldn’t tell the difference) and walked around with guns, 
 found to be really cool. The next thing I had dreamt of becoming when I grew up was a bus driver
 because bus drivers travelled constantly for a living, and I loved(and still do love) travelling. Next, I had
 dreamt of becoming an accountant. This one was because a very charismatic accountant came to our
-school during careers day and I found his job to be particularly interesting. That was back in Form One.
-And it was the last time I had thought seriously about what career I would like to pursue.
+school during careers day and I found his job to be particularly interesting. 
+
+That was back in Form One. And it was the last time I had thought seriously about what career I would like to pursue.
 After getting my KCSE results, I was spoilt for choice about what undergraduate program I could apply
 for. So, naturally, I just applied for the course that had the highest cut-off points. That course was
 MBChB- Bachelor of Medicine and Bachelor of Surgery. That’s how I landed in Chiromo Campus in the
@@ -28,8 +29,9 @@ Exciting. Confusing. Exhausting. Intense. But there was a common feature that th
 experiences had: they all smelt of formalin. First-year medical students usually dissect cadavers during
 their anatomy classes. The cadavers are preserved by a chemical called formalin which has a strong acrid
 smell. Because we would spend long hours in the anatomy laboratory dissecting the cadavers, our
-clothes, our hair and even our skin would smell of formalin after a long day there. Sometimes I felt that
-the formalin had infiltrated my brain tissue and shut down my short-term memory. That’s because I
+clothes, our hair and even our skin would smell of formalin after a long day there. 
+
+Sometimes I felt that the formalin had infiltrated my brain tissue and shut down my short-term memory. That’s because I
 would have a hard time recalling an anatomical fact that had been stated by one of my tablemates just a
 few minutes before. I would have blamed my poor memory squarely on the formalin had I not also been
 suffering from chronic lack of enough sleep, a more plausible culprit.
@@ -55,8 +57,9 @@ friends was a survival strategy. Friends simply made life tolerable in one of th
 draining years of training in medical school. Friends formed an informal support group. Some people
 retained their high school classmates as their friends in medical school. Others tried their luck with new
 friends they met at the lecture hall. Some people had no trouble forming a large group of friends over a
-matter of weeks. Others were either unsuccessful at making new friends or simply did not care. I
-became instant friends with my three roommates, probably because they were the people I spent the
+matter of weeks. Others were either unsuccessful at making new friends or simply did not care. 
+
+I became instant friends with my three roommates, probably because they were the people I spent the
 most time with outside of class. We would go for supper together after a long day of school and talk
 about our hopes and fears. And maybe finally agree on who would be exiled the coming weekend.
 
