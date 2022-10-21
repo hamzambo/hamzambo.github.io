@@ -5,7 +5,7 @@ permalink: dentistry
 ---
 We all know the script. Do an undergraduate degree in Medicine and Surgery first, then specialize later. With one glaring exception- Dentistry. Medical school and dental school are separate, though the tooth is part of the human body. Ideally, a dentist should study medicine first then specialize in dentistry. So, why isn't this the case? 
 
-Dentistry has a long history, but we’ll start in the Middle Ages when barber-surgeons performed dental procedures. Barber-surgeons could trim your beard, fix your teeth and if you were unlucky enough, amputate your gangrenous hand or give you enemas. Instead of the upbeat music you listen to when getting a haircut nowadays, people in those times were treated to the screams of men in pain.
+Dentistry has a long history, but we’ll start in the Middle Ages when barber-surgeons performed surgical and dental procedures. Barber-surgeons could trim your beard, fix your teeth and if you were unlucky enough, amputate your gangrenous hand or give you enemas. Instead of the upbeat music you listen to when getting a haircut nowadays, people in those times were treated to the screams of men in pain.
 
 College-educated physicians in those days saw surgery as a low-level skill and did not perform surgical or dental procedures. They treated other ailments but referred patients to barber-surgeons for ‘dirty’ procedures. So, in many aspects, even surgery was not part of medicine at some point. Surgery would only be incorporated into the medical profession as late as the 17th Century. Dentistry was not so lucky.
 
