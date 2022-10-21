@@ -20,7 +20,7 @@ my first school bag.
 
 But mum was meticulous in her
 measurements. She made sure the clothes were
-never oversized. it was out of character for mum to 
+never oversized. it was out of character for her to 
 make those baggy Kaunda suits for us.
 
 Turns out the clothes my brother and I wore in
