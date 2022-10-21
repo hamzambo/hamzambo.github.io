@@ -21,5 +21,7 @@ People are often puzzled as to why the government doesn’t work. It doesn’t w
 
 So, if you dream of becoming really rich, find a way to get into politics. Or, find some other way to create problems. You can even spice things up. Simply write those problems on a wheel, then give the people a chance to spin. Now, it is the people who will have the chance to choose their own problems. But it’s you who gets to solve them. And get rich. 
 
+![wheel](/assets/images/wheel.jpg)
+
 © 2022 <a class="small" href="/">HAMZA HAJI</a>
 
