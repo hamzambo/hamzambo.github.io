@@ -17,4 +17,5 @@ After a few more rejections, Hayden and Harris decided to open an independent co
 
 And so, dentistry became a profession in its own right, independent of medicine and surgery. 
 
+![UoN](/assets/images/split.jpg)
 © 2022 <a class="small" href="/">HAMZA HAJI</a>
