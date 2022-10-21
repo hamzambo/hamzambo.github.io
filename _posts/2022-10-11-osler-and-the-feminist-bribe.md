@@ -15,6 +15,8 @@ The reasons may seem incoherent now but they made absolute sense to the school b
 
 The Johns Hopkins University School of Medicine, founded in 1893, would have followed suit had it not been for a group of wealthy, decidedly feminist, educated women from Baltimore. These women pledged half a million dollars on the condition that the school admit both sexes. The school now had to choose between following in the footsteps of the best medical school in the country or getting an extremely generous donation. 
 
-Enter Dr William Osler, considered the father of modern medicine and a co-founder of Johns Hopkins University School of Medicine. Osler did not think that society had any use for female doctors at the time. He also suggested that single women could study medicine but had to drop out once married. But money was on the line. And money has a way of clearing up your mind very fast. So, he and the Johns Hopkins school board decided to accept the donation and admit women into the college.
+Enter Dr William Osler, considered the father of modern medicine and a co-founder of Johns Hopkins University School of Medicine. Osler did not think that society had any use for female doctors at the time. He also suggested that single women could study medicine but had to drop out once married. But money was on the line. And money has a way of clearing up your mind fast. So, he and the Johns Hopkins school board decided to accept the donation and admit women into the college. 
+
+Now, the school had a chance to test if the fears of the Harvard school board would come true. But at least they also had lots of money in their pockets. Not bad.
 
 © 2022 <a class="small" href="/">HAMZA HAJI</a>
