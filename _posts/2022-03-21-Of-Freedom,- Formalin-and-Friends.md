@@ -66,7 +66,7 @@ Almost seven years down the line, my experiences as a first-year seem like a dro
 experiences I’ve had ever since. Those experiences are small pixels in the beautiful mosaic that my time
 in medical school has been. A mosaic that has been equally decorated by all the highs and lows. There
 were many things I could have done better but I believe I did the best I could with the knowledge I had
-at that time. If I had one piece of advice that I could give to my younger self it would be to just take my
+at that time. If I had one piece of advice that I could give to my younger self, it would be to just take my
 time to learn and grow; it would be okay in the end.
 
 ![chiromo](/assets/images/formalin.jpg)
