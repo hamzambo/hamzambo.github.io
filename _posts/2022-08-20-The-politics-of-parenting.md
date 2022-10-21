@@ -15,6 +15,7 @@ The lack of any political education at home.
 
 Maybe these things were just parents subconsciously replicating what they saw the government do in their childhood. 
 
+![bagamoyo_road_Nairobi](/assets/images/parenting.jpg)
 © 2022 <a class="small" href="/">HAMZA HAJI</a>
 
 
