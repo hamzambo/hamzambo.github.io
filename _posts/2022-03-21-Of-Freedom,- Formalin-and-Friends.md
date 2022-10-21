@@ -68,3 +68,7 @@ in medical school has been. A mosaic that has been equally decorated by all the 
 were many things I could have done better but I believe I did the best I could with the knowledge I had
 at that time. If I had one piece of advice that I could give to my younger self it would be to just take my
 time to learn and grow; it would be okay in the end.
+
+![chiromo](/assets/images/formalin.jpg)
+
+© 2022 <a class="small" href="/">HAMZA HAJI</a>
