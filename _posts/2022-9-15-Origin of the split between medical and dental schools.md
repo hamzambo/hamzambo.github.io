@@ -7,9 +7,9 @@ We all know the script. Do an undergraduate degree in Medicine and Surgery first
 
 Dentistry has a long history, but we’ll start in the Middle Ages when barber-surgeons performed dental procedures. Barber-surgeons could trim your beard, fix your teeth and if you were unlucky enough, amputate your gangrenous hand or give you enemas. Instead of the upbeat music you listen to when getting a haircut nowadays, people in those times were treated to the screams of men in pain.
 
-College-educated physicians in those days saw surgery as a low-level skill and did not perform surgical or dental procedures. They treated other ailments but referred patients to barber-surgeons for ‘dirty’ procedures. So, in many aspects, even surgery was not part of medicine at some point. Surgery would only be incorporated into the medical profession as late as the 17th Century. Dentistry was not as lucky.
+College-educated physicians in those days saw surgery as a low-level skill and did not perform surgical or dental procedures. They treated other ailments but referred patients to barber-surgeons for ‘dirty’ procedures. So, in many aspects, even surgery was not part of medicine at some point. Surgery would only be incorporated into the medical profession as late as the 17th Century. Dentistry was not so lucky.
 
-The profession of dentistry continued as an apprenticeship with no formal training. Fast forward to the 19th century USA, when two dentists Horace Hayden and Chapin Harris felt that dentistry deserved a higher status and advocated for its addition to university medical education.
+The profession of dentistry continued as an apprenticeship with no formal training. Fast forward to 19th century USA, when two dentists Horace Hayden and Chapin Harris felt that dentistry deserved a higher status. They started advocating for its addition to university medical education.
 
 They approached the College of Medicine at the University of Maryland but the physicians at the college rejected the proposal, terming dentistry as a ‘subject of little consequence’. This rejection, known as the ‘historical rebuff’, is when medicine formally rejected dentistry.
 
